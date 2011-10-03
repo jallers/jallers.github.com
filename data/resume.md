@@ -1,43 +1,34 @@
-Daniel Mayer  
-dan@mayerdan.com  
-503-819-3246  
-821 Maryland Ave NE #305  
-Washington, DC 20002  
+Jim Allers
+jim.allers@gmail.com  
+678-656-9535
+210 Truehedge Trace  
+Roswell, GA 30076  
 
-[GitHub](http://github.com/danmayer)  
-[Blog](http://mayerdan.com)  
+[GitHub](http://github.com/jallers)    
 
 Skills
 ----------------
-
-* Ruby
-  * Rails
-  * Sinatra
-  * Merb
-  * EventMachine
-  * DataMapper
-  * Custom EventMachine-based protocols
-
+* 12+ years programming experience in different environments and technology stacks (Java, .NET)
+* Java
+  * Java EE
+  * Grails
+  * GWT
+  * Alternative JVM languages (Groovy, Scala, Ruby)
+* JavaScript
+  * jQuery
+  * Prototype
 * Tools
-  * Linux
-  * OS X
-  * Javascript (JQuery/Prototype)
+  * Windows, Linux, OS X
   * HTML
-  * Amazon Web Services (Ec2, SimpleDB, S3, SQS)
-  * Distributed Computing
   * Apache
   * MySQL
-  * PostgreSQL
-  * Schemaless DBs (NoSql)
+  * Java Appication Servers: Tomcat, Glassfish, JBoss
   * RESTul webservice API's
 
 * Style
-  * Pair Programming
   * Test-Focused Development
-  * Distributed Teams
   * Agile team management
-  * Contributor to Ruby OSS software
-  * Active on Github
+  * Contribute to OSS (Past contributions include Apache Ant, HtmlUnit, Mantis)
 
 Work Experience
 ---------------
@@ -79,9 +70,9 @@ Developed full lifecycle of a DOD distributed synchronous infrastructure in Java
 
 Education
 ---------------  
-University of Colorado  
-Boulder, CO  
-B.S., Computer Science  
-GPA: 3.185  
+Rice University  
+Houston, TX 
+B.S., Physics
+GPA: 3.6  
 
 _References available on request_  
