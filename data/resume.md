@@ -39,6 +39,7 @@ Work Experience
 __LivePerson__  
 Software Developer  
 2008 - Current  
+
 * Developing internal tools to improve deployment efficiency (Java, Groovy, Javascript)  
 * Build client-driven customizations and integrations to the LivePerson offering  
 * Implement fixes, improvements to core LivePerson offering  
@@ -47,6 +48,7 @@ Software Developer
 __LivePerson__
 Deployment Engineer  
 2006 - 2008  
+
 * Worked with clients to deploy the LivePerson solution to websites  
 * Began development on internal tools  
 
@@ -54,12 +56,14 @@ __Entrance Software__
 .Net Software Developer  
 2005 - 2006  
 Custom software development  
+
 * Developed full featured software package for creating staircase designs and build plans  
 * Developed rich client application to generate oil exploration report  
 
 __Rice University__
 Biophysics Graduate Student  
 2003 - 2005  
+
 * Worked on molecular dynamics simulations  
 * Studied the evolution of thermodynamic stability of proteins  
 * Gained experience in Linux administration, cluster computing, Python, and Java  
@@ -69,6 +73,7 @@ Java Software Developer
 2001 - 2003  
 Software startup that built Java networking infrastructure to support real-time synchronous collaboration
 in existing and new applications  
+
 * Built real-time synchronous collaboration plugin for Microsoft PowerPoint, Excel and Word  
 * Jack of all trades  
   * Managed build system and installation scripts  
