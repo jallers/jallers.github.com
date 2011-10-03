@@ -45,7 +45,7 @@ Software Developer
 * Implement fixes, improvements to core LivePerson offering  
 * Prototype innovations on top of emerging LivePerson platform such as mobile web chat  
 
-__LivePerson__
+__LivePerson__  
 Deployment Engineer  
 2006 - 2008  
 
@@ -60,7 +60,7 @@ Custom software development
 * Developed full featured software package for creating staircase designs and build plans  
 * Developed rich client application to generate oil exploration report  
 
-__Rice University__
+__Rice University__  
 Biophysics Graduate Student  
 2003 - 2005  
 
