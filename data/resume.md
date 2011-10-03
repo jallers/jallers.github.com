@@ -1,6 +1,6 @@
-Jim Allers
+Jim Allers  
 jim.allers@gmail.com  
-678-656-9535
+678-656-9535  
 210 Truehedge Trace  
 Roswell, GA 30076  
 
@@ -30,29 +30,53 @@ Skills
   * Agile team management
   * Contribute to OSS (Past contributions include Apache Ant, HtmlUnit, Mantis)
 
+* Research
+  * Primary author on article in Journal of Molecular Biology, “Structure-based analysis of protein-RNA interactions using the program ENTANGLE”
+
+
 Work Experience
 ---------------
-__LivingSocial__  
+__LivePerson__  
 Software Developer  
-June 2010 - Current  
-Working with a small team of developers to grow LivingSocial. Working on mobile apps, mobile site, APIs, and backend tools.  
+2008 - Current  
+* Developing internal tools to improve deployment efficiency (Java, Groovy, Javascript)
+* Build client-driven customizations and integrations to the LivePerson offering
+* Implement fixes, improvements to core LivePerson offering
+* Prototype innovations on top of emerging LivePerson platform such as mobile web chat
 
-__Devver__  
-Founder / CTO / Ruby Software Developer  
-April 2008 - April 2010  
-Software startup to make the lives of developers easier. Originally developed accelerated testing for Ruby developers. More recently, launched getcaliper.com, which builds code analytics for all Rubygems and builds metrics for public and private git-based Ruby projects.  
+__LivePerson__
+Deployment Engineer
+2006 - 2008
+* Worked with clients to deploy the LivePerson solution to websites
+* Began development on internal tools to improve deployment efficiency
 
-* Built accelerated testing tool, using distributed computing services to run developer tests
-* Developed a cloud-based continuous integration server and notification services
-* Developed cloud-based code metrics and analytics project analyzer, which integrated with Rubygems.org to provide analytics on all public Rubygems and many OSS git-based projects (7000+ projects)
-* Member of a distributed agile team -- practiced daily standups, remote pair programming, and continuous integration
-* Worked extensively with cloud based services and distributed computing techniques. (EC2, Beanstalkd queues, Schemaless SimpleDB, S3)
-* Developed and deployed EventMachine, Merb, Rails, and Sinatra in production environments
+__Entrance Software__  
+.Net Software Developer  
+2005 - 2006  
+Custom software development
+* Developed full featured software package for creating staircase designs and build plans
+* Developed rich client application to generate oil exploration report
 
-__Pretheory__  
-Founder  
-May 2007 - April 2008  
-Small Denver-based consumer web startup. Built [Seekler.com](http://seekler.com) to help people find the best of everything online by user generated, community-based top 10 lists on topics or products. Seekler was a social way to rank things with friends or the entire community.  
+__Rice University__
+Biophysics Graduate Student
+2003 - 2005
+* Worked on molecular dynamics simulations
+* Studied the evolution of thermodynamic stability of proteins
+* Experience in Linux administration, cluster computing, Python, and Java
+
+__Advanced Reality__  
+Java Software Developer  
+2001 - 2003  
+Software startup that built Java networking infrastructure to support real-time synchronous collaboration
+in existing and new applications
+* First employee
+* Jack of all trades 
+  * Managed build system and installation scripts
+  * Unit testing advocate
+  * IDE expert
+  * GUI developer
+* Learned a bit of everything from OLE automation (COM) to proxy discovery protocol
+* Built real-time synchronous collaboration plugin for Microsoft PowerPoint, Excel and Word
 
 __Indigio__  
 Java Lead Engineer  
@@ -70,9 +94,13 @@ Developed full lifecycle of a DOD distributed synchronous infrastructure in Java
 
 Education
 ---------------  
-Rice University  
-Houston, TX 
-B.S., Physics
+1997 - 2000, Rice University  
+Houston, TX  
+B.S., Physics  
 GPA: 3.6  
+
+2003 - 2005, Rice University
+Houston, TX
+Graduate work in Biophysics
 
 _References available on request_  
