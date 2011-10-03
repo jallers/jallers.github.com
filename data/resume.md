@@ -48,7 +48,7 @@ __LivePerson__
 Deployment Engineer  
 2006 - 2008  
 * Worked with clients to deploy the LivePerson solution to websites  
-* Began development on internal tools to improve deployment efficiency  
+* Began development on internal tools  
 
 __Entrance Software__  
 .Net Software Developer  
