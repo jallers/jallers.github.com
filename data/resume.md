@@ -39,58 +39,44 @@ Work Experience
 __LivePerson__  
 Software Developer  
 2008 - Current  
-* Developing internal tools to improve deployment efficiency (Java, Groovy, Javascript)
-* Build client-driven customizations and integrations to the LivePerson offering
-* Implement fixes, improvements to core LivePerson offering
-* Prototype innovations on top of emerging LivePerson platform such as mobile web chat
+* Developing internal tools to improve deployment efficiency (Java, Groovy, Javascript)  
+* Build client-driven customizations and integrations to the LivePerson offering  
+* Implement fixes, improvements to core LivePerson offering  
+* Prototype innovations on top of emerging LivePerson platform such as mobile web chat  
 
 __LivePerson__
-Deployment Engineer
-2006 - 2008
-* Worked with clients to deploy the LivePerson solution to websites
-* Began development on internal tools to improve deployment efficiency
+Deployment Engineer  
+2006 - 2008  
+* Worked with clients to deploy the LivePerson solution to websites  
+* Began development on internal tools to improve deployment efficiency  
 
 __Entrance Software__  
 .Net Software Developer  
 2005 - 2006  
-Custom software development
-* Developed full featured software package for creating staircase designs and build plans
-* Developed rich client application to generate oil exploration report
+Custom software development  
+* Developed full featured software package for creating staircase designs and build plans  
+* Developed rich client application to generate oil exploration report  
 
 __Rice University__
-Biophysics Graduate Student
-2003 - 2005
-* Worked on molecular dynamics simulations
-* Studied the evolution of thermodynamic stability of proteins
-* Experience in Linux administration, cluster computing, Python, and Java
+Biophysics Graduate Student  
+2003 - 2005  
+* Worked on molecular dynamics simulations  
+* Studied the evolution of thermodynamic stability of proteins  
+* Gained experience in Linux administration, cluster computing, Python, and Java  
 
 __Advanced Reality__  
 Java Software Developer  
 2001 - 2003  
 Software startup that built Java networking infrastructure to support real-time synchronous collaboration
-in existing and new applications
-* First employee
-* Jack of all trades 
-  * Managed build system and installation scripts
-  * Unit testing advocate
-  * IDE expert
-  * GUI developer
-* Learned a bit of everything from OLE automation (COM) to proxy discovery protocol
-* Built real-time synchronous collaboration plugin for Microsoft PowerPoint, Excel and Word
-
-__Indigio__  
-Java Lead Engineer  
-August 2006 - May 2007  
-Developed web sites for Fortune 500 companies. Managed a small Java team with local and international remote employees.  
-
-* Developed and deployed large scale newspaper, real estate, and car rental companies Java sites
-
-
-__Impact Science & Technology (IST)__  
-Java Software Engineer  
-December 2005 - June 2006  
-Developed full lifecycle of a DOD distributed synchronous infrastructure in Java.  
-
+in existing and new applications  
+* First employee  
+* Jack of all trades  
+  * Managed build system and installation scripts  
+  * Unit testing advocate  
+  * IDE expert  
+  * GUI developer  
+* Learned a bit of everything from OLE automation (COM) to proxy discovery protocol  
+* Built real-time synchronous collaboration plugin for Microsoft PowerPoint, Excel and Word  
 
 Education
 ---------------  
@@ -99,8 +85,8 @@ Houston, TX
 B.S., Physics  
 GPA: 3.6  
 
-2003 - 2005, Rice University
-Houston, TX
-Graduate work in Biophysics
+2003 - 2005, Rice University  
+Houston, TX  
+Graduate work in Biophysics  
 
 _References available on request_  
