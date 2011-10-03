@@ -69,14 +69,14 @@ Java Software Developer
 2001 - 2003  
 Software startup that built Java networking infrastructure to support real-time synchronous collaboration
 in existing and new applications  
-* First employee  
+* Built real-time synchronous collaboration plugin for Microsoft PowerPoint, Excel and Word  
 * Jack of all trades  
   * Managed build system and installation scripts  
   * Unit testing advocate  
   * IDE expert  
   * GUI developer  
-* Learned a bit of everything from OLE automation (COM) to proxy discovery protocol  
-* Built real-time synchronous collaboration plugin for Microsoft PowerPoint, Excel and Word  
+* Learned a great variety of technologies from OLE automation (COM) to proxy discovery protocol  
+  
 
 Education
 ---------------  
