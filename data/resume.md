@@ -37,7 +37,7 @@ Skills
 Work Experience
 ---------------
 __LivePerson__  
-Software Developer  
+Software Developer/Solution Architect
 2008 - Current  
 
 * Developing internal tools to improve deployment efficiency (Java, Groovy, Javascript)  
