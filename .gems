@@ -6,3 +6,4 @@ maruku
 wkhtmltopdf-binary 
 launchy
 fileutils
+jeweler
