@@ -31,7 +31,7 @@ Skills
   * Contribute to OSS (Past contributions include Apache Ant, HtmlUnit, Mantis)
 
 * Research
-  * Primary author on article in Journal of Molecular Biology, “Structure-based analysis of protein-RNA interactions using the program ENTANGLE”
+  * Primary author on article in Journal of Molecular Biology, "Structure-based analysis of protein-RNA interactions using the program ENTANGLE"
 
 
 Work Experience
