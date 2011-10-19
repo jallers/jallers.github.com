@@ -3,74 +3,48 @@ jim.allers@gmail.com
 678-656-9535  
 210 Truehedge Trace  
 Roswell, GA 30076  
+    
+## Background 
 
-[GitHub](http://github.com/jallers)    
+I am an experienced problem solver who loves to learn new technologies and build software that delight users. I love taking on new challenges like learning Hebrew or becoming a dad :). My endeavors in physics and biology sparked my passion in programming. I spend time following Hacker News and programming blogs, playing video games and reading books ranging from cognitive science to philosophy to user interface design.
 
-Skills
-----------------
-* 12+ years programming experience in different environments and technology stacks (Java, .NET)
-* Java
-  * Java EE
-  * Grails
-  * GWT
-  * Alternative JVM languages (Groovy, Scala, Ruby)
-* JavaScript
-  * jQuery
-  * Prototype
-* Tools
-  * Windows, Linux, OS X
-  * HTML
-  * Apache
-  * MySQL
-  * Java Appication Servers: Tomcat, Glassfish, JBoss
-  * RESTul webservice API's
+## Systems Proficiency 
+** Programming  Languages/ Frameworks ** 
+> Proficient in: Java, Javascript, Groovy, HTML, CSS, Grails, Java EE 
+> Experience with: C/C++, Groovy, GWT, Scala, Ruby, Python, Rails, C#
 
-* Style
-  * Test-Focused Development
-  * Agile team management
-  * Contribute to OSS (Past contributions include Apache Ant, HtmlUnit, Mantis)
+** Software ** 
+> I work with three OS's on a regular basis: Windows, Linux, and Mac OS X. My current IDE of choice is Eclipse. I have experience working in team development using Git, SVN, and CVS. I've contributed to three open source projects: Ant, Mantis and HtmlUnit. 
 
-* Research
-  * Primary author on article in Journal of Molecular Biology, "Structure-based analysis of protein-RNA interactions using the program ENTANGLE"
+## Publication
+### Allers, J; Shamoo, Y; "Structure-based Analysis of protein-RNA interactions using the program ENTANGLE", *Journal of Molecular Biology*, 2001, 311 (1), 75 - 86.
 
-
-Work Experience
----------------
-__LivePerson__  
-Software Developer/Solution Architect
-2008 - Current  
+## Experience
+### LivePerson - 2006 to present
+#### Software Developer/Solution Architect
 
 * Developing internal tools to improve deployment efficiency (Java, Groovy, Javascript)  
 * Build client-driven customizations and integrations to the LivePerson offering  
 * Implement fixes, improvements to core LivePerson offering  
-* Prototype innovations on top of emerging LivePerson platform such as mobile web chat  
+* Prototype innovations on top of emerging LivePerson platform (mobile web chat, Android client)
 
-__LivePerson__  
-Deployment Engineer  
-2006 - 2008  
-
-* Worked with clients to deploy the LivePerson solution to websites  
-* Began development on internal tools  
-
-__Entrance Software__  
-.Net Software Developer  
-2005 - 2006  
+### Entrance Software - 2005 to 2006 
+#### .Net Software Developer  
+  
 Custom software development  
 
 * Developed full featured software package for creating staircase designs and build plans  
 * Developed rich client application to generate oil exploration report  
 
-__Rice University__  
-Biophysics Graduate Student  
-2003 - 2005  
+### Rice University - 2003 to 2005
+#### Biophysics Graduate Student  
 
 * Worked on molecular dynamics simulations  
 * Studied the evolution of thermodynamic stability of proteins  
 * Gained experience in Linux administration, cluster computing, Python, and Java  
 
-__Advanced Reality__  
-Java Software Developer  
-2001 - 2003  
+### Advanced Reality - 2001 to 2003
+#### Java Software Developer  
 Software startup that built Java networking infrastructure to support real-time synchronous collaboration
 in existing and new applications  
 
@@ -83,15 +57,15 @@ in existing and new applications
 * Learned a great variety of technologies from OLE automation (COM) to proxy discovery protocol  
   
 
-Education
----------------  
-1997 - 2000, Rice University  
-Houston, TX  
-B.S., Physics  
-GPA: 3.6  
+## Education 
+Physics, B.S.  
+Fall 1997 - Fall 2000 
+Rice University, Houston, TX 
+GPA: 3.6 
 
-2003 - 2005, Rice University  
-Houston, TX  
-Graduate work in Biophysics  
+Graduate work in Biophysics 
+Fall 2003 - Fall 2005 
+Rice University, Houston, TX 
+Graduate work in Biophysics 
 
 _References available on request_  
