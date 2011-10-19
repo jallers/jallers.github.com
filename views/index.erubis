@@ -13,5 +13,5 @@
       <%= resume %>
    </div>
    </br>
-/body>
+</body>
 </html>
