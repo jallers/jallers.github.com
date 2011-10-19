@@ -7,9 +7,9 @@ Roswell, GA 30076
 ## Background 
 
 I am an experienced problem solver who lives to learn new technologies and to build software that delights users.
-I love taking on new challenges like learning Hebrew or becoming a dad :). My endeavors in physics and biology  
-sparked my passion for programming. I spend time following Hacker News and programming blogs, playing video games 
-and reading books ranging from cognitive science to philosophy to user interface design.
+I love taking on new challenges like learning a foreign language or becoming a dad :). My endeavors in physics and 
+biology sparked my passion for programming. I spend time following Hacker News and programming blogs, playing video 
+games and reading books ranging from cognitive science to philosophy to user interface design.
 
 ## Systems Proficiency 
 **Programming  Languages / Frameworks** 
@@ -20,7 +20,7 @@ and reading books ranging from cognitive science to philosophy to user interface
 
 **Software** 
 
-> I work with Windows, Linux, and Mac OS X on a regular basis. My current environment of choice is Eclipse. I have experience working in team development using Git, SVN, and CVS. I have contributed to three open source projects: Ant, Mantis and HtmlUnit. 
+> I work with Windows, Linux, and Mac OS X on a regular basis. My current programming environment is Eclipse. I have experience working in team development using Git, SVN, and CVS. I have contributed to three open source projects: Ant, Mantis and HtmlUnit. 
 
 ## Publication
 Allers, J; Shamoo, Y; "Structure-based Analysis of protein-RNA interactions using the program ENTANGLE", *Journal of Molecular Biology*, 2001, 311 (1), 75 - 86.
