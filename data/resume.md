@@ -7,8 +7,8 @@ Roswell, GA 30076
 ## Background 
 
 I am an experienced problem solver who lives to learn new technologies and to build software that delights users.
-I love taking on new challenges like learning a foreign language or becoming a dad :). My endeavors in physics and 
-biology sparked my passion for programming. I spend time following Hacker News and programming blogs, playing video 
+I love taking on new challenges like learning a foreign language and more recently, becoming a father. My endeavors
+in physics and biology sparked my passion for programming. I spend time following Hacker News and programming blogs, playing video
 games and reading books ranging from cognitive science to philosophy to user interface design.
 
 ## Systems Proficiency 
