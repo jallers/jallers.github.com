@@ -20,7 +20,7 @@ I am an experienced problem solver who loves to learn new technologies and build
 > I work with Windows, Linux, and Mac OS X on a regular basis. My current IDE of choice is Eclipse. I have experience working in team development using Git, SVN, and CVS. I've contributed to three open source projects: Ant, Mantis and HtmlUnit. 
 
 ## Publication
-* Allers, J; Shamoo, Y; "Structure-based Analysis of protein-RNA interactions using the program ENTANGLE", *Journal of Molecular Biology*, 2001, 311 (1), 75 - 86.
+Allers, J; Shamoo, Y; "Structure-based Analysis of protein-RNA interactions using the program ENTANGLE", *Journal of Molecular Biology*, 2001, 311 (1), 75 - 86.
 
 ## Experience
 ### LivePerson - 2006 to present
