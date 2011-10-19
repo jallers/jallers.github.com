@@ -8,13 +8,12 @@ Roswell, GA 30076
 
 I am an experienced problem solver who lives to learn new technologies and to build software that delights users.
 I love taking on new challenges like learning a foreign language and more recently, becoming a father. My endeavors
-in physics and biology sparked my passion for programming. I spend time following Hacker News and programming blogs, playing video
-games and reading books ranging from cognitive science to philosophy to user interface design.
+in physics and biology sparked my passion for programming. I spend time following Hacker News and programming blogs, playing video games, staying fit and reading books. My favorite topics include cognitive science, philosophy, and user interface design.
 
 ## Systems Proficiency 
 **Programming  Languages / Frameworks** 
 
-> Proficient in: Java, Javascript, Groovy, HTML, CSS, Grails, Java EE 
+> Proficient in: Java, Javascript, Groovy, HTML, CSS, Grails, Java EE, MySQL 
 
 > Experience with: C/C++, GWT, Scala, Ruby, Python, Rails, C# 
 
@@ -55,11 +54,7 @@ Software startup that built Java networking infrastructure to support real-time 
 in existing and new applications  
 
 * Built real-time synchronous collaboration plugin for Microsoft PowerPoint, Excel and Word  
-* Jack of all trades  
-  * Managed build system and installation scripts  
-  * Unit testing advocate  
-  * IDE expert  
-  * GUI developer  
+* Wore many hats: build manager, installer builder, unit testing advocate, IDE expert, GUI developer 
 * Learned a great variety of technologies from OLE automation (COM) to proxy discovery protocol  
   
 
