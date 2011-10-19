@@ -5,12 +5,13 @@ require 'launchy'
 require 'fileutils'
 require 'less'
 require 'erubis'
+require 'yaml'
 
 class Resume
 
   def initialize(resume_data = 'resume.yml', resume_content = 'resume.md')
     base = File.join(File.dirname(__FILE__),'..','data')
-    @resume = resume_data.is_a?(String) ? YAML::load_file(File.join(base,resume_data)) : resume_data
+    @resume = resume_data.is_a?(String) ? File.open(File.join(base,resume_data)) { |yf| YAML::load(yf)} : resume_data
     @resume_content = resume_content.is_a?(String) ? File.read(File.join(base,resume_content)) : resume_content
   end
 
@@ -50,8 +51,9 @@ class Resume
     base = File.join(File.dirname(__FILE__),'..')
     #root_path = File.join(base,root_path)
     #FileUtils.mkdir_p root_path unless File.exists?(root_path)
- 
-    css = Less::Engine.new(File.new(File.join(base,"views/style.less"))).to_css
+    file = File.open(File.join(base,"views/style.less"),"rb")
+    contents = file.read
+    css = Less::Parser.new.parse(contents).to_css
     tmp_css = File.join(root_path,'style.css')
     File.open(tmp_css, 'w') {|f| f.write(css) }
 
