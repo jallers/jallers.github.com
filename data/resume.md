@@ -9,11 +9,11 @@ Roswell, GA 30076
 I am an experienced problem solver who loves to learn new technologies and build software that delight users. I love taking on new challenges like learning Hebrew or becoming a dad :). My endeavors in physics and biology sparked my passion in programming. I spend time following Hacker News and programming blogs, playing video games and reading books ranging from cognitive science to philosophy to user interface design.
 
 ## Systems Proficiency 
-** Programming  Languages/ Frameworks ** 
+**Programming  Languages / Frameworks** 
 > Proficient in: Java, Javascript, Groovy, HTML, CSS, Grails, Java EE 
-> Experience with: C/C++, Groovy, GWT, Scala, Ruby, Python, Rails, C#
+> Experience with: C/C++, Groovy, GWT, Scala, Ruby, Python, Rails, C# 
 
-** Software ** 
+**Software** 
 > I work with three OS's on a regular basis: Windows, Linux, and Mac OS X. My current IDE of choice is Eclipse. I have experience working in team development using Git, SVN, and CVS. I've contributed to three open source projects: Ant, Mantis and HtmlUnit. 
 
 ## Publication
