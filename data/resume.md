@@ -63,12 +63,11 @@ in existing and new applications
 ## Education 
 Physics, B.S.  
 Fall 1997 - Fall 2000 
-Rice University, Houston, TX 
+Rice University, Houston, TX  
 GPA: 3.6 
 
 Graduate work in Biophysics 
 Fall 2003 - Fall 2005 
 Rice University, Houston, TX 
-Graduate work in Biophysics 
 
 _References available on request_  
