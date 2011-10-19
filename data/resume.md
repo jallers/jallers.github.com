@@ -6,7 +6,10 @@ Roswell, GA 30076
     
 ## Background 
 
-I am an experienced problem solver who loves to learn new technologies and build software that delight users. I love taking on new challenges like learning Hebrew or becoming a dad :). My endeavors in physics and biology sparked my passion in programming. I spend time following Hacker News and programming blogs, playing video games and reading books ranging from cognitive science to philosophy to user interface design.
+I am an experienced problem solver who lives to learn new technologies and to build software that delights users.
+I love taking on new challenges like learning Hebrew or becoming a dad :). My endeavors in physics and biology  
+sparked my passion for programming. I spend time following Hacker News and programming blogs, playing video games 
+and reading books ranging from cognitive science to philosophy to user interface design.
 
 ## Systems Proficiency 
 **Programming  Languages / Frameworks** 
@@ -17,7 +20,7 @@ I am an experienced problem solver who loves to learn new technologies and build
 
 **Software** 
 
-> I work with Windows, Linux, and Mac OS X on a regular basis. My current IDE of choice is Eclipse. I have experience working in team development using Git, SVN, and CVS. I've contributed to three open source projects: Ant, Mantis and HtmlUnit. 
+> I work with Windows, Linux, and Mac OS X on a regular basis. My current environment of choice is Eclipse. I have experience working in team development using Git, SVN, and CVS. I have contributed to three open source projects: Ant, Mantis and HtmlUnit. 
 
 ## Publication
 Allers, J; Shamoo, Y; "Structure-based Analysis of protein-RNA interactions using the program ENTANGLE", *Journal of Molecular Biology*, 2001, 311 (1), 75 - 86.
@@ -26,7 +29,7 @@ Allers, J; Shamoo, Y; "Structure-based Analysis of protein-RNA interactions usin
 ### LivePerson - 2006 to present
 #### Software Developer/Solution Architect
 
-* Developing internal tools to improve deployment efficiency (Java, Groovy, Javascript)  
+* Developing internal tools to improve deployment efficiency (Java, Groovy, Javascript, Eclipse RCP/RAP)  
 * Build client-driven customizations and integrations to the LivePerson offering  
 * Implement fixes, improvements to core LivePerson offering  
 * Prototype innovations on top of emerging LivePerson platform (mobile web chat, Android client)
